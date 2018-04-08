@@ -6,13 +6,7 @@ import java.util.regex.*;
 
 public class Solution {
 
-    /*
-     * Complete the staircase function below.
-     */
-    static void staircase(int t) {
-        /*
-         * Write your code here.
-         */
+       static void staircase(int t) {
         int p,i;
         for(p=1;p<=t;p++)
         {
